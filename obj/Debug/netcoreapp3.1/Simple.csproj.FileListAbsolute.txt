@@ -1,0 +1,11 @@
+C:\Simple\bin\Debug\netcoreapp3.1\Simple.exe
+C:\Simple\bin\Debug\netcoreapp3.1\Simple.deps.json
+C:\Simple\bin\Debug\netcoreapp3.1\Simple.runtimeconfig.json
+C:\Simple\bin\Debug\netcoreapp3.1\Simple.runtimeconfig.dev.json
+C:\Simple\bin\Debug\netcoreapp3.1\Simple.dll
+C:\Simple\bin\Debug\netcoreapp3.1\Simple.pdb
+C:\Simple\obj\Debug\netcoreapp3.1\Simple.csprojAssemblyReference.cache
+C:\Simple\obj\Debug\netcoreapp3.1\Simple.AssemblyInfoInputs.cache
+C:\Simple\obj\Debug\netcoreapp3.1\Simple.AssemblyInfo.cs
+C:\Simple\obj\Debug\netcoreapp3.1\Simple.dll
+C:\Simple\obj\Debug\netcoreapp3.1\Simple.pdb
